@@ -1,0 +1,6 @@
+testAPILabel.C
+testAPIScalar.C
+testAPIVector.C
+testAPITensor.C
+
+LIB = $(FOAM_USER_LIBBIN)/libTestAPI

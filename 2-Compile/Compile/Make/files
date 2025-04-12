@@ -1,0 +1,4 @@
+Class1/class1.C
+Class2/class2.C
+
+LIB = $(FOAM_USER_LIBBIN)/libnewClass

@@ -1,0 +1,6 @@
+EXE_INC = \
+    -ITestAPI/lnInclude
+
+EXE_LIBS = \
+    -L$(FOAM_USER_LIBBIN) \
+    -lTestAPI

@@ -1,0 +1,3 @@
+NewFunc.C
+
+LIB = $(FOAM_USER_LIBBIN)/libNewFuncFunctionObject

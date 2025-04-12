@@ -1,0 +1,6 @@
+EXE_INC = \
+    -ICompile/lnInclude
+
+EXE_LIBS = \
+    -L$(FOAM_USER_LIBBIN) \
+    -lnewClass

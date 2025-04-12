@@ -1,0 +1,4 @@
+helloWorld.C
+of_helloWorld.C
+
+EXE = $(FOAM_USER_APPBIN)/of_helloWorld
